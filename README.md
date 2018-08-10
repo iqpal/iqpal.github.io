@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to IQ Pal
+The next-generation cryptocurrency revolution is meeting the worlds biggest online encyclopedia.
 
-You can use the [editor on GitHub](https://github.com/iqpal/website-v1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### The problem
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Exchanging fiat currency for IQ Tokens is complex and people new to the idea of future currency are more likely to fall victim to online thieves.
 
-### Markdown
+Exchanges often charge higher fees for moving small amounts of cryptocurrency between accounts.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Some people do not have the technical ability to fully participate in the early stages of the cryptocurrency revolution, and learning the skills to make wise trades takes time.
 
-```markdown
-Syntax highlighted code block
+### The solution
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/iqpal/website-v1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+A lightweight and easy-to-use exchange that converts fiat currency directly to IQ tokens and creates a fully staked EOS account to hold them. Everything you need to get started on Everipedia.
